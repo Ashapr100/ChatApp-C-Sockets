@@ -39,6 +39,5 @@ ChatApp-C-Sockets/
 - Real-time message relay via server
 - Simple and clean terminal interface
 
-## 👨‍💻 Author
-**Akash Garimella** — Aspiring backend and networking developer
+
 
